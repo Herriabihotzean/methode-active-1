@@ -75,6 +75,7 @@ const HB_TRANSLATIONS={"eu":
      "ÉCOUTER MAINTENANT":"ORAI ENTZUN",
      "Il est possible de ce procurer le livre en suivant le lien ci-dessous.":"Liburua beherako esteka erabiliz eskura daiteke.",
      "61 dialogues ou lettres accessibles séparément":"61 bitarteko solas edo gutun, berex entzungai",
+     "Etude individuelle avec des enregistrements" : "Bakarkako ikasketa, grabaketen bidez",
      "Lecture continue automatique":"Entzunaldi jarraitu bere baitharik",
      "Écoute sur téléphone, tablette et ordinateur":"Telefonoan, tabletan eta ordenagailuan entzun daiteke",
      "AVANT-PROPOS":"AINTZIN-SOLASA","Du départ et du voyage":"Phartidaz eta bidaiaz",
