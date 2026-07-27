@@ -29,5 +29,5 @@ const conversations = [
   {"numero": 27, "titre": "Vingt-septième leçon", "audio": "audio/027.mp3"},
   {"numero": 28, "titre": "Vingt-huitième leçon", "audio": "audio/028.mp3"},
   {"numero": 29, "titre": "Vingt-neuvième leçon", "audio": "audio/029.mp3"},
-  {"numero": 30, "titre": "Trentième leçon", "audio": "audio/030.mp3"},
+  {"numero": 30, "titre": "Trentième leçon", "audio": "audio/030.mp3"}
 ];
