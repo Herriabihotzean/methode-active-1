@@ -94,7 +94,7 @@ function creerBoutons() {
                 numero.style.display = "none";
 
                 titre.textContent =
-                    "AVANT-PROPOS";
+                    "L'alphabet basque";
 
                 titre.style.flex = "none";
                 
