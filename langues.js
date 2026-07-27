@@ -16,6 +16,7 @@ const HB_TRANSLATIONS={"eu":
      "Nous contacter":"Gurekin harremanetan jarri",
      "Aucun enregistrement sélectionné":"Ez da grabaketarik hautatu",
      "Choisissez un dialogue":"Hauta zazu solasaldi bat",
+     "Choisissez une leçon":"Hauta zazu ikasgai bat",
      "La lecture se poursuivra automatiquement dans l’ordre":"Entzunaldia bere baitharik segituko da ordenan",
      "Cette édition présente le texte du":"Argitaraldi hunek honako testua erakusten du:",
      "accompagné des dialogues et des lettres enregistrés et accessibles sur le site.":"webgunean entzungai diren solasaldi eta gutun grabatuekin batera.",
