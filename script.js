@@ -193,7 +193,7 @@ async function chargerEtLire(
 
     if (estAvantPropos(conversation)) {
         titreEnCours.textContent =
-            "AVANT-PROPOS";
+            "L'alphabet basque";
     } else {
         titreEnCours.textContent =
             formaterNumero(
