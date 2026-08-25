@@ -140,7 +140,7 @@ const HB_LABELS={"fr": {"fr": "français", "eu": "basque", "be": "béarnais"}, "
         translated = dictionary[clean];
     } else {
         const numbered =
-            clean.match(/^(\d+\.\s*)(.+)$/);
+            clean.match(/^(\d+\s*(?:[.–—-])\s*)(.+)$/);
         if (
             numbered &&
             Object.prototype.hasOwnProperty.call(
