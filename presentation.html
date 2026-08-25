@@ -35,6 +35,10 @@ h2{margin-top:0;font-size:clamp(1.55rem,4vw,2.25rem);text-align:center}.contenu>
 }
    [data-lang][hidden]{display:none!important}
    [data-page-title-lang][hidden]{display:none!important}
+
+   body.lecteur-ouvert > .hb-home {
+       display:none !important;
+   }
   </style>
   <link href="langues.css" rel="stylesheet"/>
   <link rel="stylesheet" href="https://herriabihotzean.fr/hb-home.css">
@@ -270,6 +274,7 @@ bouton.addEventListener(
     "click",
     async function () {
         zone.classList.add("ouvert");
+        document.body.classList.add("lecteur-ouvert");
 
         zone.setAttribute(
             "aria-hidden",
@@ -323,6 +328,7 @@ window.addEventListener(
             }
 
             zone.classList.remove("ouvert");
+            document.body.classList.remove("lecteur-ouvert");
 
             zone.setAttribute(
                 "aria-hidden",
@@ -443,7 +449,5 @@ document.addEventListener(
 })();
 </script>
 
-</body>
-</html>
 </body>
 </html>
